@@ -4,6 +4,7 @@ pragma solidity ^0.4.24;
  * Creator: OPTI (OptiToken) 
  */
 
+ 
 /*
  * Abstract Token Smart Contract
  *
